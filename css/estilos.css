@@ -1,0 +1,102 @@
+body{
+    background-color: #EEEEEE;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.row h1{
+    font-size: 52px;
+    font-weight: 800;
+    color:#2D2D2D ;
+}
+.contacto-h2{
+    font-size: 32px;
+    line-height: 40px;
+    color: #2D2D2D;
+    width: 509px;
+    
+}
+
+.nav-link{
+    color: #2D2D2D;
+    text-decoration: none;
+    font-size: 20px;
+    width: 250px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.active {
+    text-decoration: underline;
+    font-weight: bold;
+    text-underline-position:under;
+}
+
+.btn{
+    background-color:black;
+    color: #Fff;
+    border-radius: 0;
+    width: 14%;
+    transition: 0.4s;
+}
+
+footer a {
+    color: #2D2D2D;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+ footer i{
+    color:#2D2D2D;
+    font-size: 24px;
+    margin: 0 10px;
+    background: #fff;
+    border: 1px solid #2D2D2D;
+    border-radius: 50px;
+    padding: 10px 13px;
+    
+}
+
+input[type=text],input[type=email]{
+    background: none;
+    border: none;
+}
+
+input[type=submit]:hover,.btn:hover{
+    background-color: #fff;
+    color: #2D2D2D;
+    transition: 0.4s;
+
+}
+
+textarea{
+    background:none !important;
+    border: none !important;
+}
+
+.btn-proyecto{
+    width: 45%;
+}
+
+hr{
+    margin: 0;
+    font-weight: bold;
+    
+}
+
+.parrafo-titular{
+    font-size: 23px;
+    width: 604px;
+}
+
+.parrafo-proyecto{
+    width: 527px;
+}
+
+.bg-white{
+    height: 100%;
+}
+
+span{
+    text-decoration: underline;
+}
+
