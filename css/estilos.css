@@ -158,6 +158,11 @@ a{ color: #2D2D2D;
     display: none;
 }
 
+#proyectos img {
+    height: 250px;
+    width: 100%;
+}
+
     /* RESPONSIVE */
 
 

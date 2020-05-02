@@ -58,15 +58,14 @@
                             href="https://www.linkedin.com/in/hern%C3%A1n-grieco-11b4a811a/"
                             target="_blank">Linkedin</a>, <br>
                         descargar mi <a href="files/Grieco Hernan CV.pdf" target="_blank">CV</a> o mandarme un <a
-                            href="https://api.whatsapp.com/send?phone=541164187516&amp;text=Hola"
-                            target="_blank">mensaje.</a>
+                            href="#formContacto">mensaje</a>.
                     </h2>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-12 col-sm-10">
-                    <form action="">
+                    <form id="formContacto" action="">
                         <div class="row">
                             <div class="col-12 col-sm-6 form-group">
                                 <input type="text" name="txtNombre" id="txtNombre" class="form-control" required
