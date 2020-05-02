@@ -43,7 +43,7 @@
     <div class="container">
 
         <section id="sobre-mi">
-            <div class="row mt-4">
+            <div class="row mt-5">
                 <div class="col-sm-8 col-12">
                     <h1>Sobre mi</h1>
                     <h2 class=" sobremi-h2 mt-4 mb-4">Busco un lugar en el que pueda aprender y
@@ -63,12 +63,12 @@
                         <div class="col">
                             <i class="fas fa-code"></i>
                         </div>
-                        <div class="col pt-sm-2">
-                            <h2>PROGRAMACIÓN</h2>
+                        <div class="col pt-2">
+                            <h2 class="titulo-cajas">PROGRAMACIÓN</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">HTML, CSS, Bootstrap, PHP, POO, MVC, Framework Laravel,
-                                Javascript, jQuery, React.js, AJAX, REST API, WSDL, JSON, C, C++, ASP.NET, C#.</p>
+                            <p class="parrafo-proyecto">HTML5, CSS3, Bootstrap, PHP, POO, MVC, Framework Laravel,
+                                Javascript, jQuery, React.js, AJAX, REST API, WSDL, JSON.</p>
                         </div>
                     </div>
                 </div>
@@ -77,8 +77,8 @@
                         <div class="col">
                             <i class="fas fa-database"></i>
                         </div>
-                        <div class="col pt-sm-2">
-                            <h2>BASE DE DATOS</h2>
+                        <div class="col pt-2">
+                            <h2 class="titulo-cajas">BASE DE DATOS</h2>
                         </div>
                         <div class="col">
                             <p class="parrafo-proyecto">MySQL/MariaDB, MS SQL Server, PostgreSQL, LDAP, Mongo DB.</p>
@@ -93,8 +93,8 @@
                         <div class="col">
                             <i class="fas fa-server"></i>
                         </div>
-                        <div class="col pt-sm-2">
-                            <h2>SERVIDORES</h2>
+                        <div class="col pt-2">
+                            <h2 class="titulo-cajas">SERVIDORES</h2>
                         </div>
                         <div class="col">
                             <p class="parrafo-proyecto">VMware ESXi 6.5, HTTP Apache, Bind9, ProFTPd, IIS, XAMPP, SSL
@@ -107,11 +107,11 @@
                         <div class="col">
                             <i class="fas fa-language"></i>
                         </div>
-                        <div class="col pt-sm-2">
-                            <h2>IDIOMAS</h2>
+                        <div class="col pt-2">
+                            <h2 class="titulo-cajas">IDIOMAS</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">INGLES - Intermediate B2 <br>
+                            <p class="parrafo-proyecto">INGLES - Intermediate B1 <br>
                                 ESPAÑOL - Nativo</p>
                         </div>
                     </div>
@@ -123,8 +123,8 @@
                         <div class="col">
                             <i class="fas fa-window-restore"></i>
                         </div>
-                        <div class="col pt-sm-2">
-                            <h2>SOFTWARE</h2>
+                        <div class="col pt-2">
+                            <h2 class="titulo-cajas">SOFTWARE</h2>
                         </div>
                         <div class="col">
                             <p class="parrafo-proyecto">GIT, GitHub, Visual Code, Sublime, WinSCP/Filezilla, SSH Putty,
@@ -138,11 +138,11 @@
                         <div class="col">
                             <i class="fas fa-puzzle-piece"></i>
                         </div>
-                        <div class="col pt-sm-2">
-                            <h2>HOBBIES</h2>
+                        <div class="col pt-2">
+                            <h2 class="titulo-cajas">HOBBIES</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">Deportes,Series,Videojuegos</p>
+                            <p class="parrafo-proyecto">Deportes,Series,Videojuegos.</p>
                         </div>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ body{
     font-weight: 800;
     color:#2D2D2D ;
 }
-.contacto-h2 , .sobremi-h2{
+.contacto-h2{
     font-size: 28px;
     line-height: 40px;
     color: #2D2D2D;
@@ -73,7 +73,7 @@ nav ul{
 section i {
     background: black;
     color: white;
-    font-size: 50px;
+    font-size: 30px;
     padding: 15px;
 }
 
@@ -168,6 +168,21 @@ a{ color: #2D2D2D;
     width: 100%;
 }
 
+.sobremi-h2{
+    font-size: 25px;
+    line-height: 40px;
+}
+
+.titulo-cajas{
+    font-size: 24px;
+}
+
+
+#experiencia p {
+    line-height: 24px;
+}
+
+
     /* RESPONSIVE */
 
 
@@ -256,5 +271,9 @@ a{ color: #2D2D2D;
     .depc-mobile-index{
         position: absolute;
         bottom: 0;
+    }
+
+    #proyectos img {
+        height: 200px;
     }
 }

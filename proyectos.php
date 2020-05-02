@@ -171,7 +171,7 @@
                         </div>
                         <div class="row p-2">
                             <div class="col-12">
-                                <p class="parrafo-proyecto">Relizada en HTML5,CSS3,Jquery,Responsive.Relizada en HTML5,CSS3,Jquery,Responsive.Relizada en HTML5,CSS3,Jquery,Responsive.</p>
+                                <p class="parrafo-proyecto">Proyecto de práctica. Página realizada para un Gimnasio.Fue realizada con HTML5,CSS3,Jquery,Responsive.</p>
                             </div>
                         </div>
 
@@ -204,7 +204,7 @@
                         </div>
                         <div class="row p-2">
                             <div class="col-12">
-                                <p class="parrafo-proyecto">Relizada en HTML5,CSS3,Jquery,Responsive.Relizada en HTML5,CSS3,Jquery,Responsive.Relizada en HTML5,CSS3,Jquery,Responsive.</p>
+                                <p class="parrafo-proyecto">Proyecto de práctica. Página realizada para un hospital.Fue realizada con HTML5,CSS3,Jquery,Responsive.</p>
                             </div>
                         </div>
 
