@@ -12,8 +12,12 @@ body{
     font-size: 28px;
     line-height: 40px;
     color: #2D2D2D;
-    font-weight: 500;
+    font-weight: 700;
     
+}
+
+.altura-index{
+    height: 71vh;
 }
 
 .nav-sobremi{
@@ -125,6 +129,7 @@ hr{
     background-color:#EEEEEE;
     border: none;
     border-bottom:1px solid #2D2D2D;
+    border-radius: 0;
 }
 
 .form-control:focus{

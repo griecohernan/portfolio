@@ -41,11 +41,11 @@
             </nav>
 
 
-    <section>
+    <section class="altura-index">
         <div class="container">
-            <div class="row mt-3">
+            <div class="row mt-5">
                 <div class="col-12">
-                    <h1>Hola! <br>Soy Hernán Grieco</h1>
+                    <h1 class="pt-sm-5">Hola! <br>Soy Hernán Grieco</h1>
                     <div class="row">
                         <div class="col-12 my-3">
                             <h2>Desarrollador Full Stack.</h2>
