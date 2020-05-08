@@ -1,11 +1,12 @@
 nav de todas las paginas.
 boton ver online - codigo fuente desalineado. imagenes, alto-ancho especifico?
-sube el footer del header
-link mensaje de contaacto
+
+
+donde entregar el proyecto
+google console
+active del nav y responsive
 
 
 
-form-conbtrol    background-color: #EEEEEE;
-    border: none;
-    border-radius: 0;
-    border-bottom: 1px solid #2D2D2D;
+
+

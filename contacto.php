@@ -1,6 +1,6 @@
 <?php
 
-
+$pg="contacto";
 
 include_once ("PHPMailer/src/PHPMailer.php");
 include_once ("PHPMailer/src/SMTP.php");
@@ -42,7 +42,7 @@ if ($_POST){
         $mail->ClearAllRecipients(); //Borra los destinatarios
 
         //Envía ahora un correo a nosotros con los datos de la persona
-        $mail->addAddress("info@dominio.com.ar");
+        $mail->addAddress("griecohernan@gmail.com");
         $mail->Subject = utf8_decode("Recibiste un mensaje desde tu página Web");
         $mail->Body = "Te escribio $nombre cuyo correo es $correo, con el asunto $asunto y el siguiente mensaje:<br><br>$mensaje";
        
