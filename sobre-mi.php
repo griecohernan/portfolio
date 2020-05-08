@@ -157,7 +157,7 @@
                         <p>2018 – 2019 <br>Buenos Aires</p>
                     </div>
                     <div class="col-sm-3 col-12">
-                        <h5>Cadete</h5>
+                        <h5>Vendedor</h5>
                         <p>José Horacio Santanocita S.A</p>
                     </div>
                     <div class="col-sm-6 col-12">
