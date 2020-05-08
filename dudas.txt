@@ -3,13 +3,7 @@ boton ver online - codigo fuente desalineado. imagenes, alto-ancho especifico?
 sube el footer del header
 link mensaje de contaacto
 
-section 80vh
-h1 padding top bajarlo
-tipografia sobremi titulares reducir
-    font-size: 28px;
-    line-height: 40px;
-    color: #2D2D2D;
-    font-weight: 700;
+
 
 form-conbtrol    background-color: #EEEEEE;
     border: none;
