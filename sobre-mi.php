@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sobre mi</title>
+    <title>Sobre mí</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -25,7 +25,7 @@
         <section id="sobre-mi">
             <div class="row mt-5">
                 <div class="col-sm-8 col-12">
-                    <h1>Sobre mi</h1>
+                    <h1>Sobre mí</h1>
                     <h2 class=" sobremi-h2 mt-4 mb-4">Busco un lugar en el que pueda aprender y
                         mejorar mis aptitudes aplicando los conocimientos aprendidos durante los años de estudio.</h2>
                     <a href="files/Grieco Hernan CV.pdf" target="_blank" class="btn mt-3">Descargar CV</a>
