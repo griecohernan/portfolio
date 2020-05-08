@@ -108,7 +108,7 @@ if ($_POST){
             <div class="row">
                 <div class="col-12 col-sm-6 mb-5">
                     <h2 class="contacto-h2">Para más detalles sobre mi <br> trabajo podés ver mi <a
-                            href="https://www.linkedin.com/in/hern%C3%A1n-grieco-11b4a811a/"
+                            href="https://www.linkedin.com/in/hernangrieco/"
                             target="_blank">Linkedin</a>, <br>
                         descargar mi <a href="files/Grieco Hernan CV.pdf" target="_blank">CV</a> o mandarme un <a
                             href="#formContacto">mensaje</a>.
