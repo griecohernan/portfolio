@@ -1,6 +1,6 @@
 <footer>
         <div class="container">
-            <div class="row p-sm-5 mt-sm-5 pt-4 mt-5">
+            <div class="row p-sm-5 pt-4">
                 <div class="col-12 col-sm-4 text-sm-left text-center">
                     <p><a href="index.php">Hernán Grieco<br>2020</a></p>
                 </div>
