@@ -145,7 +145,7 @@
                         <p>2019 – PRESENTE <br>Buenos Aires</p>
                     </div>
                     <div class="col-sm-3 col-12">
-                        <h5>Cadete Administrativo</h5>
+                        <h5>Administrativo Contable</h5>
                         <p>Expofot Group S.A</p>
                     </div>
                     <div class="col-sm-6 col-12">
