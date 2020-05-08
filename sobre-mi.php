@@ -66,7 +66,7 @@
                             <h2 class="titulo-cajas">BASE DE DATOS</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">MySQL/MariaDB, MS SQL Server, PostgreSQL, LDAP, Mongo DB.</p>
+                            <p class="parrafo-proyecto">MySQL/MariaDB</p>
                         </div>
                     </div>
                 </div>
@@ -76,14 +76,14 @@
                 <div class="col-sm-6 col-12">
                     <div class="bg-white py-3">
                         <div class="col">
-                            <i class="fas fa-server"></i>
+                        <i class="fas fa-window-restore"></i>
                         </div>
                         <div class="col pt-2">
-                            <h2 class="titulo-cajas">SERVIDORES</h2>
+                            <h2 class="titulo-cajas">SOFTWARE</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">VMware ESXi 6.5, HTTP Apache, Bind9, ProFTPd, IIS, XAMPP, SSL
-                                certbot, migraciones y upgrades.</p>
+                            <p class="parrafo-proyecto">Wordpress,Illustrator,Photoshop,Premiere,After effects,Dreamweaver,3DS max,
+                            Sony Vegas,Xampp,Git,Github,Trello,Slack,Visual Code,Sublime,Paquete office</p>
                         </div>
                     </div>
                 </div>
@@ -97,7 +97,8 @@
                         </div>
                         <div class="col">
                             <p class="parrafo-proyecto">INGLES - Intermediate B1 <br>
-                                ESPAÑOL - Nativo</p>
+                                ESPAÑOL - Nativo <br>
+                                PORTUGUÉS - básico.</p>
                         </div>
                     </div>
                 </div>
@@ -106,32 +107,19 @@
                 <div class="col-sm-6 col-12">
                     <div class="bg-white py-3">
                         <div class="col">
-                            <i class="fas fa-window-restore"></i>
-                        </div>
-                        <div class="col pt-2">
-                            <h2 class="titulo-cajas">SOFTWARE</h2>
-                        </div>
-                        <div class="col">
-                            <p class="parrafo-proyecto">GIT, GitHub, Visual Code, Sublime, WinSCP/Filezilla, SSH Putty,
-                                Navicat, MySQL Workbench, Heidi SQL, Adobe Illustrator, Balsamiq mockups, MS Office,
-                                Google Docs. Redmine, MS Project, Trello. MS Windows, Debian GNU/Linux y macOS.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-6 col-12 mt-sm-0 mt-4">
-                    <div class="bg-white py-3">
-                        <div class="col">
-                            <i class="fas fa-puzzle-piece"></i>
+                        <i class="fas fa-puzzle-piece"></i>
                         </div>
                         <div class="col pt-2">
                             <h2 class="titulo-cajas">HOBBIES</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">Deportes,Series,Videojuegos.</p>
+                            <p class="parrafo-proyecto">Fútbol,Series,Videojuegos.</p>
                         </div>
                     </div>
                 </div>
+                
             </div>
+            
         </section>
 
     </div>
