@@ -169,7 +169,7 @@
             </div>
 
             <div class="row">
-                <div class="col-12 col-sm-6 mt-sm-4 mt-4">
+                <div class="col-12 col-sm-6 mt-sm-4 mt-4 mb-sm-5">
                     <div class="bg-white">
                         <div class="row">
                             <div class="col-12">
