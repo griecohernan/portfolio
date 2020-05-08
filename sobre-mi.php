@@ -133,7 +133,7 @@
 
    
         <section id="experiencia">
-            <div class="container mt-4">
+            <div class="container mt-4 mt-sm-5">
             <div class="text-white p-3">
                 <div class="row mb-sm-4">
                     <div class="col-12">
