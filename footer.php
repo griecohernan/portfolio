@@ -7,7 +7,7 @@
                 <div class="col-12 col-sm-4 mt-sm-0 mb-sm-0 mt-3 mb-4 text-center">
                     <a href="https://api.whatsapp.com/send?phone=541164187516&amp;text=Hola
             " target="_blank"><i class="fab fa-whatsapp"></i></a>
-                    <a href="https://www.linkedin.com/in/hern%C3%A1n-grieco-11b4a811a/" target="_blank"> <i
+                    <a href="https://www.linkedin.com/in/hernangrieco/" target="_blank"> <i
                             class="fab fa-linkedin-in"></i></a>
                     <a href="https://github.com/griecohernan" target="_blank"><i class="fab fa-github"></i> </a>
                 </div>
