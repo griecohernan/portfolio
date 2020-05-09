@@ -83,7 +83,7 @@
                         </div>
                         <div class="col">
                             <p class="parrafo-proyecto">Wordpress,Illustrator,Photoshop,<br>
-                            Premiere,After effects,Dreamweaver,3DS max,Sony Vegas,Xampp,Git,Github,Trello,Slack,Visual Code,Sublime,Paquete office</p>
+                            Premiere,After effects,Dreamweaver,3DS max,Sony Vegas,Xampp,Git,Github,Trello,Slack, <br> Visual Code,Sublime,Paquete office.</p>
                         </div>
                     </div>
                 </div>
