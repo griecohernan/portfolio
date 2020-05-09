@@ -51,9 +51,9 @@
                             </div>
 
                         </div>
-                        <div class="row p-2">
+                        <div class="row pt-3 pl-2"">
                             <div class="col-12">
-                                <h2>ABM Clientes</h2>
+                                <h2 class="titulo-cajas">ABM Clientes</h2>
                             </div>
                         </div>
                         <div class="row p-2">
@@ -83,9 +83,9 @@
                                 <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid">
                             </div>
                         </div>
-                        <div class="row p-2">
+                        <div class="row pt-3 pl-2">
                             <div class="col-12">
-                                <h2>Sistema de gestión de ventas</h2>
+                                <h2 class="titulo-cajas">Sistema de gestión de ventas</h2>
                             </div>
                         </div>
                         <div class="row p-2">
@@ -118,9 +118,9 @@
                             </div>
 
                         </div>
-                        <div class="row p-2">
+                        <div class="row pt-3 pl-2">
                             <div class="col-12">
-                                <h2>Proyecto integrador</h2>
+                                <h2 class="titulo-cajas">Proyecto integrador</h2>
                             </div>
                         </div>
                         <div class="row p-2">
@@ -149,9 +149,9 @@
                                 <img src="images/gimnasio.png" alt="Gimnasio" class="img-fluid">
                             </div>
                         </div>
-                        <div class="row p-2">
+                        <div class="row pt-3 pl-2">
                             <div class="col-12">
-                                <h2>Página Gimnasio</h2>
+                                <h2 class="titulo-cajas">Página Gimnasio</h2>
                             </div>
                         </div>
                         <div class="row p-2">
@@ -182,9 +182,9 @@
                             </div>
 
                         </div>
-                        <div class="row p-2">
+                        <div class="row pt-3 pl-2">
                             <div class="col-12">
-                                <h2>Página Hospital</h2>
+                                <h2 class="titulo-cajas">Página Hospital</h2>
                             </div>
                         </div>
                         <div class="row p-2">
