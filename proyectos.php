@@ -91,7 +91,7 @@
                         <div class="row p-2">
                             <div class="col-12">
                                 <p class="parrafo-proyecto">Gestión de clientes, productos y ventas. <br> Realizado en
-                                    HTML, CSS, PHP, MVC, Bootstrap,
+                                    HTML5, CSS3, PHP, MVC, Bootstrap,
                                     Js, Ajax, jQuery y
                                     MySQL de base de datos.</p>
                             </div>
@@ -126,7 +126,7 @@
                         <div class="row p-2">
                             <div class="col-12">
                                 <p class="parrafo-proyecto">Proyecto Full Stack desarrollado en PHP, Laravel,
-                                    Javascript, jQuery, AJAX, HTML, CSS, con panel administrador, gestor de usuarios,
+                                    Javascript, jQuery, AJAX, HTML5, CSS3, con panel administrador, gestor de usuarios,
                                     módulo de permisos y funcionalidades a fines..</p>
                             </div>
                         </div>
