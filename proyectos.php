@@ -156,7 +156,7 @@
                         </div>
                         <div class="row p-2">
                             <div class="col-12">
-                                <p class="parrafo-proyecto">Página realizada para un Gimnasio. Proyecto de práctica.  <br> Fue realizada con los siguientes lenguajes: <br> HTML5,CSS3,Jquery,Responsive.</p>
+                                <p class="parrafo-proyecto">Página realizada para un Gimnasio. Proyecto de práctica.  <br> Fue realizada con los lenguajes: <br> HTML5,CSS3,Jquery,Responsive.</p>
                             </div>
                         </div>
 
