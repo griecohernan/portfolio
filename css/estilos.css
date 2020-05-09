@@ -121,7 +121,11 @@ hr{
     color:#25252575;
 }
 
-.bg-white{
+#sobre-mi .bg-white{
+    height: 230px;
+}
+
+.bg-white {
     height: 100%;
 }
 
