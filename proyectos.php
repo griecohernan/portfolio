@@ -60,7 +60,7 @@
                             <div class="col-12">
                                 <p class="parrafo-proyecto">Alta, Baja, modificación de un registro de clientes.
                                     <br>
-                                    Realizado en HTML, CSS, PHP,
+                                    Realizado en HTML5, CSS3, PHP,
                                     Bootstrap y Json.</p>
                             </div>
                         </div>
