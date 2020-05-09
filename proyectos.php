@@ -60,7 +60,7 @@
                             <div class="col-12">
                                 <p class="parrafo-proyecto">Alta, Baja, modificación de un registro de clientes.
                                     <br>
-                                    Proyecto realizado en HTML5, CSS3, PHP,
+                                    Proyecto realizado con los lenguajes: <br> HTML5, CSS3, PHP,
                                     Bootstrap y Json.</p>
                             </div>
                         </div>
@@ -156,7 +156,7 @@
                         </div>
                         <div class="row p-2">
                             <div class="col-12">
-                                <p class="parrafo-proyecto">Proyecto de práctica. Página realizada para un Gimnasio. <br> Fue realizada con HTML5,CSS3,Jquery,Responsive.</p>
+                                <p class="parrafo-proyecto">Página realizada para un Gimnasio. Proyecto de práctica.  <br> Fue realizada con los siguientes lenguajes: <br> HTML5,CSS3,Jquery,Responsive.</p>
                             </div>
                         </div>
 
