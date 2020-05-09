@@ -82,8 +82,7 @@
                             <h2 class="titulo-cajas">SOFTWARE</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">Wordpress,Illustrator,Photoshop,Premiere,After effects,Dreamweaver,3DS max,
-                            Sony Vegas,Xampp,Git,Github,Trello,Slack,Visual Code,Sublime,Paquete office</p>
+                            <p class="parrafo-proyecto">Wordpress,Illustrator,Photoshop,<br>Premiere,After effects,Dreamweaver,3DS max,Sony Vegas,Xampp,Git,Github,Trello,Slack,Visual Code,Sublime,Paquete office</p>
                         </div>
                     </div>
                 </div>
