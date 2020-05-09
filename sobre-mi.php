@@ -32,7 +32,7 @@
                 <div class="col-sm-8 col-12">
                     <h1>Sobre mí</h1>
                     <h2 class=" sobremi-h2 mt-4 mb-4">Busco un lugar en el que pueda aprender y
-                        mejorar mis aptitudes aplicando los conocimientos aprendidos durante los años de estudio.</h2>
+                        mejorar mis aptitudes aplicando los conocimientos aprendidos durante los años de estudio y trabajo.</h2>
                     <a href="files/GriecoHernanCV.pdf" target="_blank" class="btn mt-3">Descargar CV</a>
                 </div>
 
