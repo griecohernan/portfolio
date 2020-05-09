@@ -224,7 +224,7 @@
                      " target="_blank"><i class="fab fa-whatsapp"></i></a>
                 </div>
                  <div class="col text-center">
-                            <a href="https://www.linkedin.com/in/hern%C3%A1n-grieco-11b4a811a/" target="_blank"> <i
+                            <a href="https://www.linkedin.com/in/hernangrieco/" target="_blank"> <i
                             class="fab fa-linkedin-in"></i></a>
                 </div>
                 <div class="col text-right" >
