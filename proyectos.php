@@ -67,7 +67,7 @@
 
                         <div class="row p-2">
                             <div class="col-6 text-left">
-                                <a href="" class="btn btn-proyecto">Ver Online</a>
+                                <a href="#" class="btn btn-proyecto">Ver Online</a>
                             </div>
                             <div class="col-6 text-right">
                                 <a href="https://github.com/"> Código fuente</a>
@@ -99,7 +99,7 @@
 
                         <div class="row p-2">
                             <div class="col-6 text-left">
-                                <a href="" class="btn btn-proyecto">Ver Online</a>
+                                <a href="#" class="btn btn-proyecto">Ver Online</a>
                             </div>
                             <div class="col-6 text-right">
                                 <a href="https://github.com/"> Código fuente</a>
@@ -133,7 +133,7 @@
 
                         <div class="row p-2">
                             <div class="col-6 text-left">
-                                <a href="" class="btn btn-proyecto">Ver Online</a>
+                                <a href="#" class="btn btn-proyecto">Ver Online</a>
                             </div>
                             <div class="col-6 text-right">
                                 <a href="https://github.com/"> Código fuente</a>
