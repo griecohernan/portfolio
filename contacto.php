@@ -99,7 +99,7 @@ if ($_POST){
 
         <section id="contacto">
 
-            <div class="row mt-4 mb-3">
+            <div class="row mt-5 mb-3">
                 <div class="col-12">
                     <h1>¡Trabajemos juntos!</h1>
                 </div>
