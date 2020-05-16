@@ -78,11 +78,7 @@ error_reporting(E_ALL);
 
                 <div class="col-12 col-sm-6 mt-4 mt-sm-0">
                     <div class="bg-white">
-                        <div class="row">
-                            <div class="col-12">
-                                <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid">
-                            </div>
-                        </div>
+                    <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid">
                         <div class="row pt-3 pl-2">
                             <div class="col-12">
                                 <h2 class="titulo-cajas">Sistema de gestión de ventas</h2>
