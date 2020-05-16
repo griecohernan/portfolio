@@ -78,7 +78,7 @@ error_reporting(E_ALL);
 
                 <div class="col-12 col-sm-6 mt-4 mt-sm-0">
                     <div class="bg-white">
-                    <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid">
+                        <img src="images/abmventas.png" alt="ABM Ventas" class="img-fluid">
                         <div class="row pt-3 pl-2">
                             <div class="col-12">
                                 <h2 class="titulo-cajas">Sistema de gestión de ventas</h2>
@@ -108,12 +108,7 @@ error_reporting(E_ALL);
             <div class="row">
                 <div class="col-12 col-sm-6 mt-sm-4 mt-4">
                     <div class="bg-white">
-                        <div class="row">
-                            <div class="col-12">
                                 <img src="images/sistema-admin.png" alt="proyecto integrador" class="img-fluid">
-                            </div>
-
-                        </div>
                         <div class="row pt-3 pl-2">
                             <div class="col-12">
                                 <h2 class="titulo-cajas">Proyecto integrador</h2>
@@ -140,11 +135,7 @@ error_reporting(E_ALL);
 
                 <div class="col-12 col-sm-6 mt-sm-4 mt-4">
                     <div class="bg-white">
-                        <div class="row">
-                            <div class="col-12">
                                 <img src="images/gimnasio.png" alt="Gimnasio" class="img-fluid">
-                            </div>
-                        </div>
                         <div class="row pt-3 pl-2">
                             <div class="col-12">
                                 <h2 class="titulo-cajas">Página Gimnasio</h2>
@@ -172,12 +163,7 @@ error_reporting(E_ALL);
             <div class="row">
                 <div class="col-12 col-sm-6 mt-sm-4 mt-4 mb-sm-5">
                     <div class="bg-white">
-                        <div class="row">
-                            <div class="col-12">
-                                <img src="images/hospital.png" alt="página hospital" class="img-fluid">
-                            </div>
-
-                        </div>
+                        <img src="images/hospital.png" alt="página hospital" class="img-fluid">
                         <div class="row pt-3 pl-2">
                             <div class="col-12">
                                 <h2 class="titulo-cajas">Página Hospital</h2>
