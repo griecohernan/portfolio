@@ -4,6 +4,12 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
+function guardarCorreo($correo){
+    $archivo=fopen("mails.txt","a+");
+    fwrite($archivo, $correo. ";\n");
+    fclose($archivo);
+}
+
 
 $pg ="contacto";
 
@@ -15,18 +21,21 @@ if ($_POST){
     $correo=$_POST["txtCorreo"];
     $asunto=$_POST["txtAsunto"];
     $mensaje=$_POST["txtMensaje"];
+    guardarCorreo($correo);
+    
+   
 
 
     if($nombre != "" && $correo != ""){
         $mail = new PHPMailer();
         $mail->IsSMTP();
         $mail->SMTPAuth = true;
-        $mail->Host = "mail.dominio.com"; // SMTP a utilizar
-        $mail->Username = "info@dominio.com.ar"; // Correo completo a utilizar
-        $mail->Password = "aqui va la clave de tu correo";
+        $mail->Host = "mail.hernangrieco.com.ar"; // SMTP a utilizar
+        $mail->Username = "info@hernangrieco.com.ar"; // Correo completo a utilizar
+        $mail->Password = "H3RN4.8012";
         $mail->Port = 25;
-        $mail->From = "info@dominio.com.ar"; //Desde la cuenta donde enviamos
-        $mail->FromName = "Tu nombre a mostrar";
+        $mail->From = "info@hernangrieco.com.ar"; //Desde la cuenta donde enviamos
+        $mail->FromName = "Hernán Grieco";
         $mail->IsHTML(true);
         $mail->SMTPOptions = array(
                     'ssl' => array(
@@ -38,7 +47,7 @@ if ($_POST){
 
         //Destinatarios
         $mail->addAddress($correo);
-        $mail->addBCC("otrocorreo@gmail.com"); //Copia oculta
+        $mail->addBCC("griecohernan@gmail.com"); //Copia oculta
         $mail->Subject = utf8_decode("Contacto página Web");
         $mail->Body = "Recibimos tu consulta, te responderemos a la brevedad.";
         if(!$mail->Send()){
@@ -123,7 +132,7 @@ if ($_POST){
 
             <div class="row">
                 <div class="col-12 col-sm-10">
-                    <form id="formContacto" action="">
+                    <form id="formContacto" action="" method="post">
                         <div class="row">
                             <div class="col-12 col-sm-6 form-group">
                                 <input type="text" name="txtNombre" id="txtNombre" class="form-control" required
