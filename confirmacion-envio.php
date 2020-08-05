@@ -1,16 +1,24 @@
+<?php 
+$pg ="contacto";
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="es">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hernán Grieco</title>
+    <title>Su mensaje ha sido enviado</title>
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap"
         rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/cv.ico" type="image/x-icon">
     <script src="js/jquery-3.4.1.slim.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
 </head>
@@ -27,8 +35,8 @@
                 <div class="col-12">
                     <h1 class="pt-sm-5">Gracias por contactarte,</h1>
                     <div class="row">
-                        <div class="col-12 my-3">
-                            <p>Pronto me pondré en contacto contigo</p>
+                        <div class="col-12 pl-3 mt-2">
+                            <p class="parrafo-confirmenvio">A la brevedad me pondré en contacto contigo.</p>
                         </div>
                     </div>
                 </div>

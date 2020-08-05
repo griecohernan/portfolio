@@ -21,6 +21,7 @@ error_reporting(E_ALL);
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/cv.ico" type="image/x-icon">
     <script src="js/jquery-3.4.1.slim.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
 </head>
@@ -36,8 +37,7 @@ error_reporting(E_ALL);
             <div class="row mt-5">
                 <div class="col-sm-8 col-12">
                     <h1>Sobre mí</h1>
-                    <h2 class=" sobremi-h2 mt-4 mb-4">Busco un lugar en el que pueda aprender y
-                        mejorar mis aptitudes aplicando los conocimientos aprendidos durante los años de estudio y trabajo.</h2>
+                    <h2 class=" sobremi-h2 mt-4 mb-4">Soy Diseñador Multimedial, he realizado distintos tipos de cursos para especializarme en el diseño & desarrollo web. Estoy en búsqueda de una oportunidad laboral para poder seguir creciendo profesionalmente.</h2>
                     <a href="files/GriecoHernanCV.pdf" target="_blank" class="btn mt-3">Descargar CV</a>
                 </div>
 
@@ -57,8 +57,7 @@ error_reporting(E_ALL);
                             <h2 class="titulo-cajas">PROGRAMACIÓN</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">HTML5, CSS3, Bootstrap, PHP, POO, MVC, Framework Laravel,
-                                Javascript, jQuery, React.js, AJAX, REST API, WSDL, JSON.</p>
+                            <p class="parrafo-proyecto">HTML5, CSS3, Bootstrap, PHP, POO, MVC, Framework Laravel,Javascript, jQuery, React.js, AJAX, REST API, WSDL, JSON.</p>
                         </div>
                     </div>
                 </div>
@@ -71,7 +70,7 @@ error_reporting(E_ALL);
                             <h2 class="titulo-cajas">BASE DE DATOS</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">MySQL/MariaDB</p>
+                            <p class="parrafo-proyecto">MySQl, HeidiSql, Workbench, Phpmyadmin.</p>
                         </div>
                     </div>
                 </div>
@@ -87,8 +86,8 @@ error_reporting(E_ALL);
                             <h2 class="titulo-cajas">SOFTWARE</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">Wordpress,Illustrator,Photoshop,<br>
-                            Premiere,After effects,Dreamweaver,3DS max,Sony Vegas,Xampp,Git,Github,Trello,Slack, <br> Visual Code,Sublime,Paquete office.</p>
+                            <p class="parrafo-proyecto">Wordpress, Illustrator, Photoshop,<br>
+                            Premiere, After effects, Dreamweaver, 3DS max, Sony Vegas, Xampp, Git, Github, Trello, Slack, Visual Code, Sublime, Paquete office.</p>
                         </div>
                     </div>
                 </div>
@@ -101,9 +100,9 @@ error_reporting(E_ALL);
                             <h2 class="titulo-cajas">IDIOMAS</h2>
                         </div>
                         <div class="col">
-                            <p class="parrafo-proyecto">INGLES - Intermediate B1 <br>
-                                ESPAÑOL - Nativo <br>
-                                PORTUGUÉS - básico.</p>
+                        <p class="parrafo-proyecto">Inglés - Intermediate B1 <br>
+                                Español - Nativo <br>
+                                Portugués - básico.</p>
                         </div>
                     </div>
                 </div>

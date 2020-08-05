@@ -21,6 +21,7 @@ error_reporting(E_ALL);
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/cv.ico" type="image/x-icon">
     <script src="js/jquery-3.4.1.slim.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
 </head>

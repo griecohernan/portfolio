@@ -119,6 +119,8 @@ hr{
 
 .parrafo-proyecto{
     color:#25252575;
+    min-height:100px;
+    margin: 0;
 }
 
 #sobre-mi .bg-white{
@@ -186,19 +188,25 @@ a{ color: #2D2D2D;
     line-height: 24px;
 }
 
+.parrafo-confirmenvio{
+    font-size: 25px;
+}
 
     /* RESPONSIVE */
 
 
 @media (max-width: 700px) {
     .row h1{
-        font-size: 46px;
+        font-size: 40px;
     }
 
     .contacto-h2{
         font-size: 20px;
     }
 
+    .sobremi-h2{
+        font-size: 20px;  
+    }
 
     .btn-contacto{
         width: 32%;
@@ -279,5 +287,9 @@ a{ color: #2D2D2D;
 
     #proyectos img {
         height: 200px;
+    }
+
+    .parrafo-confirmenvio{
+        font-size: 20px;
     }
 }

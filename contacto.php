@@ -35,7 +35,7 @@ if ($_POST){
         $mail->Password = "H3RN4.8012";
         $mail->Port = 25;
         $mail->From = "info@hernangrieco.com.ar"; //Desde la cuenta donde enviamos
-        $mail->FromName = "Hernán Grieco";
+        $mail->FromName = utf8_decode("Hernán Grieco");;
         $mail->IsHTML(true);
         $mail->SMTPOptions = array(
                     'ssl' => array(
@@ -49,7 +49,7 @@ if ($_POST){
         $mail->addAddress($correo);
         $mail->addBCC("griecohernan@gmail.com"); //Copia oculta
         $mail->Subject = utf8_decode("Contacto página Web");
-        $mail->Body = "Recibimos tu consulta, te responderemos a la brevedad.";
+        $mail->Body = "Recibí tu consulta, te responderemos a la brevedad.";
         if(!$mail->Send()){
             $msg = "Error al enviar el correo, intente nuevamente mas tarde.";
         }
@@ -99,6 +99,7 @@ if ($_POST){
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/cv.ico" type="image/x-icon">
     <script src="js/jquery-3.4.1.slim.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
 </head>

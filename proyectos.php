@@ -21,6 +21,7 @@ error_reporting(E_ALL);
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/all.min.css">
     <link rel="stylesheet" href="css/fontawesome-free-5.13.0-web/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <link rel="shortcut icon" href="images/cv.ico" type="image/x-icon">
     <script src="js/jquery-3.4.1.slim.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
 </head>
@@ -33,14 +34,14 @@ error_reporting(E_ALL);
 
 
         <section id="proyectos">
-            <div class="row pt-sm-5 py-3">
-                <div class="col-12">
+            <div class="row">
+                <div class="col-12 mt-4 mt-sm-5 py-3">
                     <h1>Mis Proyectos</h1>
                 </div>
             </div>
 
             <div class="row">
-                <div class="col-12">
+                <div class="col-12 pb-sm-3">
                     <p class="parrafo-titular">Estos son algunos de los trabajos que he realizado:
                     </p>
                 </div>
@@ -72,7 +73,7 @@ error_reporting(E_ALL);
 
                         <div class="row p-2">
                             <div class="col-6 text-left">
-                                <a href="#" class="btn btn-proyecto">Ver Online</a>
+                                <a href="sistema/abmclientes.php" target="_Blank" class="btn btn-proyecto">Ver Online</a>
                             </div>
                             <div class="col-6 text-right">
                                 <a href="https://github.com/"> Código fuente</a>
@@ -104,7 +105,7 @@ error_reporting(E_ALL);
 
                         <div class="row p-2">
                             <div class="col-6 text-left">
-                                <a href="#" class="btn btn-proyecto">Ver Online</a>
+                                <a href="login/login.php" target="_Blank" class="btn btn-proyecto">Ver online</a>
                             </div>
                             <div class="col-6 text-right">
                                 <a href="https://github.com/"> Código fuente</a>
@@ -132,13 +133,13 @@ error_reporting(E_ALL);
                             <div class="col-12">
                                 <p class="parrafo-proyecto">Proyecto Full Stack desarrollado en PHP, Laravel,
                                     Javascript, jQuery, AJAX, HTML5, CSS3, con panel administrador, gestor de usuarios,
-                                    módulo de permisos y funcionalidades a fines..</p>
+                                    módulo de permisos y funcionalidades a fines.</p>
                             </div>
                         </div>
 
                         <div class="row p-2">
                             <div class="col-6 text-left">
-                                <a href="#" class="btn btn-proyecto">Ver Online</a>
+                                <a href="#" class="btn btn-proyecto">En proceso</a>
                             </div>
                             <div class="col-6 text-right">
                                 <a href="https://github.com/"> Código fuente</a>
@@ -151,17 +152,50 @@ error_reporting(E_ALL);
                     <div class="bg-white">
                         <div class="row">
                             <div class="col-12">
+                                <img src="images/netflixpag.png" alt="Página similar a Netflix" class="img-fluid">
+                            </div>
+
+                        </div>
+                        <div class="row pt-3 pl-2">
+                            <div class="col-12">
+                                <h2 class="titulo-cajas">Netflix</h2>
+                            </div>
+                        </div>
+                        <div class="row p-2">
+                            <div class="col-12">
+                                <p class="parrafo-proyecto">Proyecto de práctica. Página similar a Netflix. <br> Fue realizada con HTML5,CSS3,Javascript,Responsive.</p>
+                            </div>
+                        </div>
+
+                        <div class="row p-2">
+                            <div class="col-6 text-left">
+                                <a href="https://griecohernan.github.io/Netflix/" target="_blank" class="btn btn-proyecto">Ver Online</a>
+                            </div>
+                            <div class="col-6 text-right">
+                                <a href="https://github.com/griecohernan/Netflix" target="_blank"> Código fuente</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+            <div class="col-12 col-sm-6 mt-sm-4 mt-4">
+                    <div class="bg-white">
+                        <div class="row">
+                            <div class="col-12">
                                 <img src="images/gimnasio.png" alt="Gimnasio" class="img-fluid">
                             </div>
                         </div>
                         <div class="row pt-3 pl-2">
                             <div class="col-12">
-                                <h2 class="titulo-cajas">Página Gimnasio</h2>
+                                <h2 class="titulo-cajas">Gimnasio</h2>
                             </div>
                         </div>
                         <div class="row p-2">
                             <div class="col-12">
-                                <p class="parrafo-proyecto">Página realizada para un Gimnasio. Proyecto de práctica.  <br> Fue realizada con los lenguajes: <br> HTML5,CSS3,Jquery,Responsive.</p>
+                                <p class="parrafo-proyecto">Proyecto de práctica. Página realizada para un Gimnasio. <br> Fue realizada con los lenguajes:HTML5,CSS3,Jquery,Responsive.</p>
                             </div>
                         </div>
 
@@ -176,6 +210,35 @@ error_reporting(E_ALL);
                         </div>
                     </div>
                 </div>
+                <div class="col-12 col-sm-6 mt-sm-4 mt-4">
+                    <div class="bg-white">
+                        <div class="row">
+                            <div class="col-12">
+                                <img src="images/yoga.png" alt="Página de Yoga" class="img-fluid">
+                            </div>
+
+                        </div>
+                        <div class="row pt-3 pl-2">
+                            <div class="col-12">
+                                <h2 class="titulo-cajas">Yoga</h2>
+                            </div>
+                        </div>
+                        <div class="row p-2">
+                            <div class="col-12">
+                                <p class="parrafo-proyecto">Proyecto de práctica. <br> Fue realizada con HTML5,CSS3,Jquery,Responsive.</p>
+                            </div>
+                        </div>
+
+                        <div class="row p-2">
+                            <div class="col-6 text-left">
+                                <a href="https://griecohernan.github.io/Yoga/" target="_blank" class="btn btn-proyecto">Ver Online</a>
+                            </div>
+                            <div class="col-6 text-right">
+                                <a href="https://github.com/griecohernan/Yoga" target="_blank"> Código fuente</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
             <div class="row">
@@ -183,32 +246,62 @@ error_reporting(E_ALL);
                     <div class="bg-white">
                         <div class="row">
                             <div class="col-12">
-                                <img src="images/hospital.png" alt="página hospital" class="img-fluid">
+                                <img src="images/pizzeria.png" alt="Página de Pizzería" class="img-fluid">
                             </div>
 
                         </div>
                         <div class="row pt-3 pl-2">
                             <div class="col-12">
-                                <h2 class="titulo-cajas">Página Hospital</h2>
+                                <h2 class="titulo-cajas">Pizzería</h2>
                             </div>
                         </div>
                         <div class="row p-2">
                             <div class="col-12">
-                                <p class="parrafo-proyecto">Proyecto de práctica. Página realizada para un hospital.Fue realizada con HTML5,CSS3,Jquery,Responsive.</p>
+                                <p class="parrafo-proyecto">Proyecto de práctica. Página realizada para una Pizzería.Fue realizada con HTML5,CSS3,Jquery,Responsive.</p>
                             </div>
                         </div>
 
                         <div class="row p-2">
                             <div class="col-6 text-left">
-                                <a href="https://griecohernan.github.io/Hospital/" target="_blank" class="btn btn-proyecto">Ver Online</a>
+                                <a href="https://griecohernan.github.io/Pizzeria/" target="_blank" class="btn btn-proyecto">Ver Online</a>
                             </div>
                             <div class="col-6 text-right">
-                                <a href="https://github.com/griecohernan/Hospital" target="_blank"> Código fuente</a>
+                                <a href="https://github.com/griecohernan/Pizzeria" target="_blank"> Código fuente</a>
                             </div>
                         </div>
                     </div>
                 </div>
-             </div>
+                <div class="col-12 col-sm-6 mt-sm-4 mt-4 mb-sm-5">
+                    <div class="bg-white">
+                        <div class="row">
+                            <div class="col-12">
+                                <img src="images/delivery.png" alt="Página de Delivery" class="img-fluid">
+                            </div>
+
+                        </div>
+                        <div class="row pt-3 pl-2">
+                            <div class="col-12">
+                                <h2 class="titulo-cajas">Delivery</h2>
+                            </div>
+                        </div>
+                        <div class="row p-2">
+                            <div class="col-12">
+                                <p class="parrafo-proyecto">Proyecto de práctica. Página realizada para un lugar de comidas rápidas.Fue realizada con HTML5,CSS3,Jquery,Responsive.</p>
+                            </div>
+                        </div>
+
+                        <div class="row p-2">
+                            <div class="col-6 text-left">
+                                <a href="https://griecohernan.github.io/Delivery/" target="_blank" class="btn btn-proyecto">Ver Online</a>
+                            </div>
+                            <div class="col-6 text-right">
+                                <a href="https://github.com/griecohernan/Delivery" target="_blank"> Código fuente</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             
              <div class="col-12 d-sm-none text-right pt-2 depc-mobile">
                     <p>Patrocinado por <br><a href="https://depcsuite.com" target="_blank"><span>DePc Suite</span></a>
                     </p>
